@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
